@@ -1,0 +1,3 @@
+[submodule "Algorithm-Library"]
+    path = Algorithm-Library
+    url = https://github.com/github/docs
